@@ -30,11 +30,6 @@ hr { display: block; height: 1px;
   margin-right: 1.25em;
 }
 
-h2 {
-  overflow-wrap: break-word;
-}
-
-
 .carousel {
   width:640px;
   height:360px;
