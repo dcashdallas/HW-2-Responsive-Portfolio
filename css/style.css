@@ -27,3 +27,7 @@ hr { display: block; height: 1px;
   margin-right: 3.25em;
 }
 
+h2 {
+  word-wrap:break-word;
+}
+
